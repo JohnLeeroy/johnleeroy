@@ -4,6 +4,11 @@ I like to write architecture and soft skills.
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnleeroy)](https://github.com/johnleeroy/github-readme-stats)
 
+### Latest Talk Slides
+
+[Droidcon NYC 2023 - Extreme Savings with App Startup Shavings](https://docs.google.com/presentation/d/1I0Jpc7AoS3SdhRuykLSAyOiY554UMhwY-bgoTctqisg/edit?usp=sharing)
+
+
 ### Latest articles 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@johnleeroy/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnleeroy/0" alt="Recent Article 0"> 
